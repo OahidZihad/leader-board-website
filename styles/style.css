@@ -4,3 +4,9 @@
 .nav-item .nav-link img {
   width: 51px;
 }
+body {
+  background-color: #9f9f9f;
+}
+.player img {
+  width: 56px;
+}
